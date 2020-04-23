@@ -17,13 +17,13 @@ terraform apply
 
 ### Prerequisites
 
-```
-Install Azure CLI [Windows](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest) | [MacOs](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest)
-Install Terraform [Windows/MacOS](https://www.terraform.io/downloads.html)
-[Setup Terraform Access to Azure](https://docs.microsoft.com/en-us/azure/terraform/terraform-install-configure)
-[SSH Public Key](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys)
-Azure Account and Subscription
-```
+
+* Install Azure CLI [Windows](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest) |[MacOs](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest)
+* Install Terraform [Windows/MacOS](https://www.terraform.io/downloads.html)
+* [Setup Terraform Access to Azure](https://docs.microsoft.com/en-us/azure/terraform/terraform-install-configure)
+* [SSH Public Key](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys)
+* Azure Account and Subscription
+
 
 ### Terraform Resources Created
 
